@@ -17,10 +17,6 @@
     ],
     "autoload": {
         "psr-4": { "Sonata\\IntlBundle\\": "" }
-    },
-    "extra": {
-        "branch-alias": {
-            "dev-master": "2.2.x-dev"
-        }
+    }
     }
 }
